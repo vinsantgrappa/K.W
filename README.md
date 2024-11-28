@@ -9,9 +9,8 @@
 - **目的:** メールのPDF出力・返信を自動化し、手配漏れを防止。  
 - **技術:** imaplib、email、Selenium  
 - **成果:** 月1200件のメールを効率的に管理し、対応速度を大幅に向上。
-[→ メール自動PDF出力のリポジトリを見る](https://github.com/vinsantgrappa/Auto-Mail-Printer)
-[→ メール自動返信のリポジトリを見る](https://github.com/vinsantgrappa/Auto_Mail_Reply)
-
+- [→ メール自動PDF出力のリポジトリを見る](https://github.com/vinsantgrappa/Auto-Mail-Printer)
+- [→ メール自動返信のリポジトリを見る](https://github.com/vinsantgrappa/Auto_Mail_Reply)
 
 ### 📊 **受注データ管理システム**
 - **目的:** 毎日更新される受注データをリアルタイムで共有するシステムを構築。  
