@@ -11,6 +11,12 @@
 - [→ メール自動PDF出力のリポジトリを見る](https://github.com/vinsantgrappa/Auto-Mail-Printer)
 - [→ メール自動返信のリポジトリを見る](https://github.com/vinsantgrappa/Auto_Mail_Reply)
 
+### 📠 **FAX分類の自動化**
+- **目的:** 匿名FAXを顧客名に変換し、対応効率を向上。  
+- **技術:** pdfminer.six、OpenCV、テンプレートマッチング  
+- **成果:** 90%以上の匿名FAXを正確に分類し、月1000件のFAX処理を効率化。
+- [→ メール自動返信のリポジトリを見る](https://github.com/vinsantgrappa/pdf_title_rename)
+
 ### 📊 **受注データ管理システム**
 - **目的:** 毎日更新される受注データをリアルタイムで共有するシステムを構築。  
 - **技術:** Python、oracledb、gspread  
@@ -20,11 +26,6 @@
 - **目的:** 紙ベースの電話メモをデジタル化し、Slack連携で情報共有を効率化。  
 - **技術:** Tkinter、Openpyxl、Slack API  
 - **成果:** メモの見落としを防ぎ、顧客対応時間を短縮。
-
-### 📠 **FAX分類の自動化**
-- **目的:** 匿名FAXを顧客名に変換し、対応効率を向上。  
-- **技術:** pdfminer.six、OpenCV、テンプレートマッチング  
-- **成果:** 90%以上の匿名FAXを正確に分類し、月1000件のFAX処理を効率化。
 
 ---
 
